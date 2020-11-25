@@ -1,0 +1,16 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    i = 1
+    while i > 20:
+        print(i)
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6540
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/6540">JetBrains
+    Academy</a></html>
+  time: Fri, 18 Sep 2020 07:56:59 UTC
+record: -1
